@@ -1,0 +1,3 @@
+- 👋 Hello, im @wereldkaart
+- 👀 I’m interested in FiveM Scripting
+- 📫 How to reach me ✞𝕭𝖎𝖙𝖈𝖍✞#0852
