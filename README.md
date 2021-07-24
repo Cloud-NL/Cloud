@@ -15,7 +15,7 @@ About
 - 👀 I’m interested in FiveM Scripting
 - 📫 Discord: EN#9133
 - 👋 FiveM Scripter
-- Lives in The Netherlands 🇳🇱
+- 🇳🇱 Lives in The Netherlands
 
 
 
