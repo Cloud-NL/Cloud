@@ -14,7 +14,7 @@ About
 - 👋 Hello, im @ENScripts
 - 👀 I’m interested in FiveM Scripting
 - 📫 Discord: EN#9133
-- 👋 FiveM Scripter
+- 👋 FiveM Scripter / Discord Bot Developer
 - 🇳🇱 Lives in The Netherlands
 
 
