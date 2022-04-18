@@ -6,7 +6,9 @@
     </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact)](https://github.com/ENScripts/github-readme-stats)
+<p align="center">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact)](https://github.com/ENScripts/github-readme-stats)
+</p>
 
 About 
 - 👋 Hello, im @ENScripts
