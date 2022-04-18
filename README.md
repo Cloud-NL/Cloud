@@ -2,7 +2,7 @@
 
   <p align="left">
     <a href="https://discord.com/users/822065286109724743">
-        <img title="ENScripts" sizes="100px 50px" alt="ENScripts" src="https://discord.c99.nl/widget/theme-2/822065286109724743.png"/>
+        <img title="ENScripts" width="100px" height="50px" alt="ENScripts" src="https://discord.c99.nl/widget/theme-2/822065286109724743.png"/>
     </a>
 </p>
 
