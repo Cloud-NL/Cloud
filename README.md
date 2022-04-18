@@ -2,7 +2,7 @@
 
   <p align="left">
     <a href="https://discord.com/users/822065286109724743">
-        <img title="ENScripts" alt="ENScripts" src="https://discord.c99.nl/widget/theme-2/822065286109724743.png"/>
+        <img title="ENScripts" sizes="100px 50px" alt="ENScripts" src="https://discord.c99.nl/widget/theme-2/822065286109724743.png"/>
     </a>
 </p>
 
@@ -19,3 +19,4 @@ About
 - 📫 Discord: EN#9133
 - 👋 FiveM Scripter / Discord Bot Developer
 - 🇳🇱 Lives in The Netherlands
+
