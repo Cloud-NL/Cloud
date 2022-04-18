@@ -13,8 +13,9 @@ Github Stats
 
 My most used languages
 
-
+<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact)](https://github.com/ENScripts/github-readme-stats)
+</p>
 
 About 
 - 👋 Hello, im @ENScripts
