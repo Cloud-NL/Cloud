@@ -6,7 +6,7 @@ Github Stats
 
   <p align="center">
     <a href="https://discord.com/users/822065286109724743">
-        <img title="Mafia Discord" alt="Mafia Discord" src="https://discord.c99.nl/widget/theme-3/822065286109724743.png"/>
+        <img title="Mafia Discord" alt="Mafia Discord" src="https://discord.c99.nl/widget/theme-2/822065286109724743.png/>
     </a>
 </p>
 
