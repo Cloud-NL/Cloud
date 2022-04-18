@@ -1,6 +1,6 @@
 ![EN's GitHub stats](https://github-readme-stats.vercel.app/api?username=ENScripts&show_icons=true&theme=dracula)
 
-  <p align="center">
+  <p align="left">
     <a href="https://discord.com/users/822065286109724743">
         <img title="ENScripts" alt="ENScripts" src="https://discord.c99.nl/widget/theme-2/822065286109724743.png"/>
     </a>
