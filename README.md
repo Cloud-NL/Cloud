@@ -7,7 +7,7 @@
 </p>
 
 <a align="center">
-    <a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact)](https://github.com/ENScripts/github-readme-stats)"></a>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact)](https://github.com/ENScripts/github-readme-stats)
 </a>
 
 About 
