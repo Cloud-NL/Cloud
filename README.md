@@ -6,6 +6,6 @@
 </p>
 
 <a href="https://github.com/ENScripts/github-readme-stats">
-    <img style="position: absolute; left: 50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact" />
+    <img style="position: absolute; left: 80%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ENScripts&layout=compact" />
 </a>
 
