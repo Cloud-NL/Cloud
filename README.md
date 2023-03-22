@@ -6,7 +6,7 @@
 </p>
 
 ## Hey! 👋
-I'm Cloud, a 18 years old Full Stack developer from The Netherlands.
+I'm Cloud, a 18 years old Developer from The Netherlands.
 
 ## Skills
 - 👨‍💻 C++, Lua, HTML, CSS, Javascript
