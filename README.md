@@ -23,7 +23,7 @@ Joined Github **2** years ago.
 ### Languages and Tools:
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="python"></code>
+<code><img height="27" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7K9H7A0H7G6N4_c-programming-icon-c-programming-language-icon%2F&psig=AOvVaw1CPiot7_e_kUQR-ww01wQb&ust=1679680565481000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCryuzP8v0CFQAAAAAdAAAAABAb" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discordjs/discordjs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/makefile/makefile.png" alt="react"></code>
