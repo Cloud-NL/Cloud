@@ -91,7 +91,7 @@ Joined Github **2** years ago.
         <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-nl/TradeByte?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-nl/TradeByte?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-nl/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/Gold-Jam?label=C&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Cloud-NL/Gold-Jam?label=C&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
