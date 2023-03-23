@@ -20,14 +20,7 @@ Joined Github **2** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Cloud-NL).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Cloud-NL/Cloud-NL/issues/2)!.
 
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7K9H7A0H7G6N4_c-programming-icon-c-programming-language-icon%2F&psig=AOvVaw1CPiot7_e_kUQR-ww01wQb&ust=1679680565481000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMCryuzP8v0CFQAAAAAdAAAAABAb" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discordjs/discordjs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/makefile/makefile.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="sql"></code>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,cpp,lua,)](https://github.com/Jurredr/github-widgetbox)
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
