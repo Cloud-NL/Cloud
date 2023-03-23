@@ -20,7 +20,7 @@ Joined Github **2** years ago.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Cloud-NL).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/Cloud-NL/Cloud-NL/issues/2)!.
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,cpp,lua?&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,c,cpp,lua,&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
