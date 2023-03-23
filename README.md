@@ -2,7 +2,7 @@
 ## Hey 👋, I'm [Cloud!](https://github.com/Cloud-NL/)
 <p align="center">
     <a href="https://discord.com/users/822065286109724743">
-        <img title="ENScripts" alt="ENScripts" src="https://discord.c99.nl/widget/theme-5/668193276846931988.png"/>
+        <img title="Cloud" alt="cloud" src="https://discord.c99.nl/widget/theme-5/668193276846931988.png"/>
     </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 Joined Github **2** years ago.
 
-[![](https://gitwar.herokuapp.com/badge?username=Cloud-NL&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://Pong-Remake.herokuapp.com/badge?username=Cloud-NL&label=Pong-Remake%20Profile%20Score&style=for-the-badge&color=0088cc)](https://Pong-Remake.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Cloud-NL/Cloud-NL/master/gifs/coder.gif" />
 
@@ -72,12 +72,12 @@ Joined Github **2** years ago.
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/Cloud-NL/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/Cloud-NL/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/Cloud-NL/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/Cloud-NL/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cloud-NL/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Cloud-NL/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/Cloud-NL/Pong-Remake"><b>⚪ Pong</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Cloud-NL/Pong-Remake?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Cloud-NL/Pong-Remake?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Cloud-NL/Pong-Remake?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cloud-NL/Pong-Remake?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Cloud-NL/Pong-Remake?style=flat-square"/></td>
       </tr>
       <tr>
 	      <td><a href="https://github.com/Cloud-NL/Gold-Jam"><b>🪙 GoldJam</b></a></td>
