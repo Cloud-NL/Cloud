@@ -1,30 +1,30 @@
 
-## Hey 👋, I'm [Cloud!](https://github.com/cloud-nl/)
+## Hey 👋, I'm [Cloud!](https://github.com/Cloud-NL/)
 <p align="center">
     <a href="https://discord.com/users/822065286109724743">
         <img title="ENScripts" alt="ENScripts" src="https://discord.c99.nl/widget/theme-5/668193276846931988.png"/>
     </a>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cloud-nl)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cloud-nl.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/cloud-nl)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/cloud-nl/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/cloud-nl)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Cloud-NL)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Cloud-NL.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Cloud-NL)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Cloud-NL/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Cloud-NL)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=cloud-nl.cloud-nl&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Cloud-NL.Cloud-NL&style=flat-square&color=0088cc)
 
 Joined Github **2** years ago.
 
-[![](https://gitwar.herokuapp.com/badge?username=cloud-nl&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
+[![](https://gitwar.herokuapp.com/badge?username=Cloud-NL&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/cloud-nl/cloud-nl/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Cloud-NL/Cloud-NL/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working with Raylib, Discord.js.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/cloud-nl).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/cloud-nl/cloud-nl/issues/2)!.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Cloud-NL).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/Cloud-NL/Cloud-NL/issues/2)!.
 
 ### Languages and Tools:
 
@@ -50,15 +50,15 @@ Joined Github **2** years ago.
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cloud-nl&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-nl&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cloud-NL&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cloud-NL&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-nl&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cloud-NL&hide_border=true" />
 </details>
 
 <details>
@@ -78,19 +78,19 @@ Joined Github **2** years ago.
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/cloud-nl/Gitwar"><b>🚀 Gitwar</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/cloud-nl/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-nl/Gitwar?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-nl/Gitwar?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-nl/Gitwar?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/Gitwar?style=flat-square"/></td>
+	      <td><a href="https://github.com/Cloud-NL/Gitwar"><b>🚀 Gitwar</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Cloud-NL/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Cloud-NL/Gitwar?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Cloud-NL/Gitwar?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cloud-NL/Gitwar?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/Cloud-NL/Gitwar?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/Cloud-NL/Gold-Jam"><b>🪙 Gold Jam</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/cloud-nl/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-nl/TradeByte?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-nl/TradeByte?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-nl/TradeByte?style=flat-square"/></td>
+	      <td><a href="https://github.com/Cloud-NL/Gold-Jam"><b>🪙 GoldJam</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/Cloud-NL/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/Cloud-NL/TradeByte?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/Cloud-NL/TradeByte?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Cloud-NL/TradeByte?style=flat-square"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/Cloud-NL/Gold-Jam?label=C&style=flat-square"/></td>
       </tr>
     </tbody>
@@ -106,7 +106,7 @@ Joined Github **2** years ago.
   	    <li><b>Browser: </b> Google Chrome</li>
 	    <li><b>Code Editor:</b> Visual Studio Code</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/cloud-nl/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/Cloud-NL/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
 	</ul>	
 </details>
 
