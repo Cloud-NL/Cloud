@@ -91,23 +91,7 @@ Joined Github **2** years ago.
         <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-nl/TradeByte?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-nl/TradeByte?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-nl/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/TradeByte?label=javascript&style=flat-square"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/cloud-nl/TheNodeCourse"><b>👨🏻‍💻 TheNodeCourse</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/cloud-nl/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-nl/TheNodeCourse?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-nl/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-nl/TheNodeCourse?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/TheNodeCourse?style=flat-square"/></td> 
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/cloud-nl/cloud-n"><b>🤓 cloud-nl</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/cloud-n/cloud-n?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-n/cloud-n?style=flat-square&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-n/cloud-n?style=flat-square"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-n/cloud-n?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/Game-Jam?label=C&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
@@ -127,5 +111,3 @@ Joined Github **2** years ago.
 </details>
 
 #
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cloud-NL&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
