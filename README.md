@@ -1,5 +1,10 @@
 
 ## Hey 👋, I'm [Cloud!](https://github.com/cloud-nl/)
+<p align="center">
+    <a href="https://discord.com/users/822065286109724743">
+        <img title="ENScripts" alt="ENScripts" src="https://discord.c99.nl/widget/theme-5/668193276846931988.png"/>
+    </a>
+</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/cloud-nl)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://cloud-nl.github.io/)
@@ -122,11 +127,5 @@ Joined Github **2** years ago.
 </details>
 
 #
-
-<p align="center">
-    <a href="https://discord.com/users/822065286109724743">
-        <img title="ENScripts" alt="ENScripts" src="https://discord.c99.nl/widget/theme-5/668193276846931988.png"/>
-    </a>
-</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cloud-NL&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
