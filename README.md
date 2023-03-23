@@ -86,12 +86,12 @@ Joined Github **2** years ago.
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/Gitwar?style=flat-square"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/cloud-nl/Gold-Jam"><b>🪙 Gold Jam</b></a></td>
+	      <td><a href="https://github.com/Cloud-NL/Gold-Jam"><b>🪙 Gold Jam</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/cloud-nl/TradeByte?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/cloud-nl/TradeByte?style=flat-square&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/cloud-nl/TradeByte?style=flat-square"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/cloud-nl/TradeByte?style=flat-square"/></td>
-        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/Gold-Jam?label=javascript&style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/cloud-nl/Gold-Jam?label=C&style=flat-square"/></td>
       </tr>
     </tbody>
   </table>
